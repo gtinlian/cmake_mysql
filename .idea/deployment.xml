@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="gtinlian (ab2f4e95-dc84-433d-9d10-54ff44044626)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.7tZwwy1ksz" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-gtinlian" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-gtinlian" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="vmware (3042785e-283d-4f23-a707-78a1c8e41976)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.5WFq3aS4dh" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-vmware" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

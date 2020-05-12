@@ -1,0 +1,1 @@
+/usr/bin/g++   -g    CMakeFiles/untitled5.dir/main.cpp.o  -o untitled5 -rdynamic 
